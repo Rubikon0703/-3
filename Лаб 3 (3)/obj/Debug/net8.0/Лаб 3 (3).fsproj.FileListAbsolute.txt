@@ -1,0 +1,29 @@
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\Лаб 3 (3).exe
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\Лаб 3 (3).deps.json
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\Лаб 3 (3).runtimeconfig.json
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\Лаб 3 (3).dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\Лаб 3 (3).pdb
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).fsproj.AssemblyReference.cache
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).AssemblyInfoInputs.cache
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).AssemblyInfo.fs
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).fsproj.CoreCompileInputs.cache
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).fsproj.Up2Date
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\refint\Лаб 3 (3).dll
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).pdb
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\Лаб 3 (3).genruntimeconfig.cache
+C:\Users\sterh\source\repos\Лаб 3 (3)\obj\Debug\net8.0\ref\Лаб 3 (3).dll
