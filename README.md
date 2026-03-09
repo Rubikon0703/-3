@@ -126,6 +126,6 @@
 Иначе каждый путь выводится на отдельной строке.
 
 ### Тестирование
-![Pasted image 2.png]https://github.com/Rubikon0703/-3/blob/main/скрины/2.png
+![Pasted image 2.png](https://github.com/Rubikon0703/-3/blob/main/скрины/2.png)
 
 
