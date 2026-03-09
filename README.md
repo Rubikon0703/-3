@@ -21,7 +21,7 @@
 Результат для всех чисел собирается в новую последовательность firstDigits с помощью Seq.map 
 
 ### Тестирование
-[Past image 1.png](https://github.com/Rubikon0703/-3/blob/main/скрины/1.png)
+[Pasted image 1.png](https://github.com/Rubikon0703/-3/blob/main/скрины/1.png)
 
 
 # Задание 2
