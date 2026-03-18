@@ -25,7 +25,7 @@
 Результат для всех чисел собирается в новую последовательность firstDigits с помощью Seq.map 
 
 ### Тестирование
-
+![pasted image 1.png](https://github.com/Rubikon0703/-3/blob/main/скрины/1.png)
 
 
 # Задание 2
@@ -75,7 +75,7 @@
 
 
 ### Тестирование
-
+![pasted image 1.png](https://github.com/Rubikon0703/-3/blob/main/скрины/1.png)
 
 
 # Задание 3
@@ -129,6 +129,6 @@
 Иначе каждый путь выводится на отдельной строке.
 
 ### Тестирование
-
+![pasted image 2.png](https://github.com/Rubikon0703/-3/blob/main/скрины/2.png)
 
 
