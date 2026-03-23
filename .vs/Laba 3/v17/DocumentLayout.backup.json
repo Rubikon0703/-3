@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sterh\\source\\repos\\Laba 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{780A804A-970C-46A9-9777-FA70E94205E0}|..\\\u041B\u0430\u0431 3 (3)\\\u041B\u0430\u0431 3 (3).fsproj|c:\\users\\sterh\\source\\repos\\laba 3\\\u043B\u0430\u0431 3 (3)\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{780A804A-970C-46A9-9777-FA70E94205E0}|..\\\u041B\u0430\u0431 3 (3)\\\u041B\u0430\u0431 3 (3).fsproj|solutionrelative:\u043B\u0430\u0431 3 (3)\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9A961B9-5681-4A35-B5E0-6B1B7FA72590}|Laba 3.fsproj|c:\\users\\sterh\\source\\repos\\laba 3\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{B9A961B9-5681-4A35-B5E0-6B1B7FA72590}|Laba 3.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780A804A-970C-46A9-9777-FA70E94205E0}|..\\\u041B\u0430\u0431 3 (3)\\\u041B\u0430\u0431 3 (3).fsproj|c:\\users\\sterh\\source\\repos\\laba 3\\\u043B\u0430\u0431 3 (3)\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{780A804A-970C-46A9-9777-FA70E94205E0}|..\\\u041B\u0430\u0431 3 (3)\\\u041B\u0430\u0431 3 (3).fsproj|solutionrelative:\u043B\u0430\u0431 3 (3)\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.fs",
-              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Laba 3\\\u041B\u0430\u0431 3 (3)\\Program.fs",
-              "RelativeDocumentMoniker": "\u041B\u0430\u0431 3 (3)\\Program.fs",
-              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Laba 3\\\u041B\u0430\u0431 3 (3)\\Program.fs",
-              "RelativeToolTip": "\u041B\u0430\u0431 3 (3)\\Program.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Laba 3\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Laba 3\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-09T08:34:19.562Z",
+              "WhenOpened": "2026-03-23T17:23:05.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.fs",
-              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Laba 3\\Program.fs",
-              "RelativeDocumentMoniker": "Program.fs",
-              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Laba 3\\Program.fs",
-              "RelativeToolTip": "Program.fs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\Laba 3\\\u041B\u0430\u0431 3 (3)\\Program.fs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431 3 (3)\\Program.fs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\Laba 3\\\u041B\u0430\u0431 3 (3)\\Program.fs",
+              "RelativeToolTip": "\u041B\u0430\u0431 3 (3)\\Program.fs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-09T08:20:07.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T08:34:19.562Z"
             }
           ]
         }

@@ -1,4 +1,5 @@
 ﻿open System
+
 let tryParseInt (s: string) =
     match Int32.TryParse(s) with
     | (true, value) -> Some value
@@ -14,9 +15,7 @@ let rec readInt prompt =
         readInt prompt
 
 let rec readIntSequence () =
-
     seq {
-        printf "число: "
         let input = Console.ReadLine()
         
         if input <> "" then
@@ -36,42 +35,29 @@ let firstDigit (n: int) =
         else loop (x / 10)
     loop absN
 
-// Задание 1
 let searchFirst (numbers: seq<int>) =
+    numbers |> Seq.map firstDigit
 
-    let numbersCache = numbers |> Seq.cache
-    let firstDigits = numbersCache |> Seq.map firstDigit
-    let numbersList = numbersCache |> Seq.toList
-    let firstDigitsList = firstDigits |> Seq.toList
-    printfn "Исходная последовательность :"
-    numbersList |> List.iter (printf "%d ")
-    printfn ""
-    printfn "Последовательность первых цифр:"
-    firstDigitsList |> List.iter (printf "%d ")
-    printfn ""
-    numbersCache
 
-// Задание 2
-let counting (numbers: seq<int>) =
-    let target = readInt "Введите число для подсчёта: "
-    let count =
-        numbers
-        |> Seq.fold (fun acc x -> 
-            if x = target then
-                acc + 1 
-            else 
-                acc) 0
-    
-    printfn "число %d встречается %d раз(а)" target count
-    numbers
+let counting (numbers: seq<int>) (target: int) =
+    numbers |> Seq.fold (fun acc x -> if x = target then acc + 1 else acc) 0
 
-// Точка входа
 [<EntryPoint>]
 let main argv =
-    printfn "Введите числа (пустая строчка выход):"
+    printfn "Введите числа (пустая строчка для завершения):"
+    
     let numbers = readIntSequence ()
     let numbersCache = numbers |> Seq.cache
-    let numbersAfterSearch = searchFirst numbersCache
-    printfn "Подсчёт вхождений"
-    counting numbersCache |> ignore
+    
+    numbersCache |> Seq.iter (fun x -> printfn "%d -> %d" x (firstDigit x))
+  
+    printf "Последовательность первых цифр: "
+    let firstDigits = searchFirst numbersCache
+    firstDigits |> Seq.iter (printf "%d ")
+
+    printfn "\n"
+    let target = readInt "Введите число для подсчёта: "
+    let count = counting numbersCache target
+    printfn "число %d встречается %d раз(а)" target count
+    
     0

@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Laba 3")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd32ca0026d8485f2b4afa5acb33828fe84c3f27")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3925c9e22638b1a15fc50c0ac6752e49dbb48ce4")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Laba 3")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Laba 3")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
